@@ -33,7 +33,7 @@ permalink: /
 # Overview
 In this project, I produce "morph" animations of faces into different faces, compute the mean of a population of faces and extrapolate from a population mean to create a caricature of yourself, change the ethnicity of a friend, watch me grow up, and create a music video of me and my classmates.
 
-`Important note: the embedded GIFs don't always autoplay. Reloading the page while over a gif usually fixes this problem.`
+`Important note: the embedded GIFs don't always autoplay. Reloading the page while over a gif usually fixes this problem, or by opening the GIF in a new tab.`
 
 # Part 1. Defining Correspondences
 
